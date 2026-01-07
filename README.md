@@ -77,4 +77,6 @@ Unsure, so soon?
 | `Main - v whatever` | Stable/public release |
 | `Experimental - v whatever` | Testing new features. Development.|
 
-
+These are the branches on the repo for the game versions:
+[Main](https://github.com/snow2code/kemono-hangout/tree/main)
+[Experimental](https://github.com/snow2code/kemono-hangout/tree/experimental)
