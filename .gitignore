@@ -6,11 +6,11 @@
 /*.rbxl.lock
 
 
-# Private stuff and dev.
+## Snowy Remove
 /! Ref/*
 /%PRIVATE%/
 /Assets/*
-.vscode/*
+# .vscode/*
 
-# You fellas don't need my tools.
+*.txt
 *.bat
