@@ -1,0 +1,11 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "ClassName": "RemoteEvent",
+            "properties": {
+                "Name": "Test"
+            }
+        }
+    ]
+}

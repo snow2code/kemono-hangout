@@ -1,0 +1,38 @@
+{
+    "name": "Kemono Hangout",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "$ignoreUnknownInstances": true,
+            "$path": "ReplicatedStorage"
+        },
+
+        "ServerScriptService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "ServerScriptService"
+        },
+        
+        "ServerStorage": {
+            "$ignoreUnknownInstances": true,
+            "$path": "ServerStorage"
+        },
+
+        "StarterPlayer": {
+            "StarterCharacterScripts": {
+                "$path": "StarterPlayer/CharacterScripts",
+                "$ignoreUnknownInstances": true
+            },
+            "StarterPlayerScripts": {
+                "$path": "StarterPlayer/PlayerScripts",
+                "$ignoreUnknownInstances": true
+            }
+        },
+
+        "SoundService": {
+            "$properties": {
+                "RespectFilteringEnabled": true
+            }
+        }
+    }
+}
